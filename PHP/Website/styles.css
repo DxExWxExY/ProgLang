@@ -1,0 +1,134 @@
+@charset "UTF-8";
+body {
+	background-color: #2c292d;
+	padding: 0;
+	margin: 0;
+	color: white;
+}
+/*****************************************/
+.menu {
+	background-color: #ff6188;
+	height: 100%;
+	width: 80px;
+	float: left;
+	padding: 0;
+	position: fixed;
+}
+.menu p {
+	color: #ffffff;
+	padding: 0;
+}
+.menu a {
+	color: black;
+	font-family: Courier,monospace;
+	font-size: 200%;
+	text-decoration: none;
+}
+.menu a:visited {
+	color: black;
+}
+/*****************************************/
+.cont {
+	width: 80px;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+	transition: width .5s;
+	overflow: hidden;
+	background-color: #ff6188;
+}
+.cont:hover {
+	width: 325px;
+	transition: width .5s;
+}
+.cont img {
+	width: 50px;
+	margin: 15px;
+	vertical-align: middle;
+}
+/*****************************************/
+.lib {
+	width: 87%;
+	height: 100%;
+	margin: 0;
+	margin-left: 12%;
+	float: right;
+}
+.lib h1 {
+	color: #78dce8;
+	font-family: Courier,monospace;
+}
+.lib p {
+	color: white;
+	font-family: Courier,monospace;
+	font-size: 120%;
+	margin: 2%;
+}
+.lib img {
+	vertical-align: middle;
+	width: 70px;
+	margin-right: 4%;
+}
+.lib button {
+	background-color: #a9dc76;
+	border-style: none;
+	border-radius: 10px;
+	margin: 0;
+	padding: 7px;
+	font-family: Courier,monospace;
+	color: white;
+}
+.lib input{
+
+  background-color: #908e8f;
+  border-style: none;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 7px;
+  font-family: Courier,monospace;
+  color: white;
+
+}
+.lib input::placeholder {
+	font-family: Courier,monospace;
+  	color: black;
+}
+.lib table {
+	width: 100%;
+}
+.lib a {
+	color: #fc9867;
+}
+/************************************************/
+.store {
+	width: 250px;
+	float: left;
+	background-opacity: 0;
+	transition: background-color .5s;
+	display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+    border-radius: 20%;
+    padding: 10%;
+    margin: 2%;
+}
+.store img {
+	width: 200px; 
+	border-radius: 20%;
+	margin: 10%;	
+	float: left;
+}
+.store:hover {
+	background-color: #ffd866;
+	transition: background-color .5s;
+}
+.store p {
+	margin: auto;
+	font-size: 30px;
+	color: white;
+	font-family: Courier,monospace;
+
+}

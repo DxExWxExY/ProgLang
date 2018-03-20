@@ -1,0 +1,14 @@
+td { 
+	align-items: center;
+	background-color: grey;
+	padding: 1%;
+}
+th {
+	background-color: red;
+	align-items: center;
+	padding: 1%;
+	width: 10%;
+}
+p {
+	align-content: center;
+}
