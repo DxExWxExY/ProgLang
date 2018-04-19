@@ -1,0 +1,912 @@
+<p class=MsoNormal style='border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0mm;mso-padding-alt:0mm 0mm 1.0pt 0mm'><span lang=EN-US
+style='font-family:"Times New Roman"'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+
+<p class=MsoNormal style='border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0mm;mso-padding-alt:0mm 0mm 1.0pt 0mm'><span lang=EN-US
+style='font-family:"Times New Roman"'>The phonetic labeling was done using
+normal English orthography, as discussed below.<span style="mso-spacerun:
+yes">&nbsp; </span>IPA was not used as it provides more detail than was needed,
+potentially obscuring generalizations.<span style="mso-spacerun: yes">&nbsp;
+</span>This is a common choice in studying dialog, for example Trager (1958)
+argued that the study of `vocal segregates such as <i>uh</i>-<i>uh</i>, <i>uh</i>-<i>huh</i>,
+bb
+si
+no
+
+
+SipProvider-5094: Date: 16:25:01.022 Sun 25 May 2008
+SipProvider-5094: SipStack: mjsip stack 1.6
+SipProvider-5094: new SipProvider(): 5094/udp/tcp
+SipProvider-5094: udp is up
+SipProvider-5094: tcp is up
+fn supplement error not found tel: +1-855-470-1451
+ExtendedInviteDialog#76: changed dialog state: D_INIT
+ExtendedInviteDialog#76: changed dialog state: D_WAITING
+TransactionServer#288: id: INVITE
+TransactionServer#288: created
+TransactionServer#288: start
+TransactionServer#288: changed transaction state: T_Waiting
+pl  tel: 44-9342
+SipProvider-5094: adding SipProviderListener: INVITE
+SipProvider-5094: 1 listeners: INVITE, 
+TransactionClient#289: id: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+TransactionClient#289: created
+TransactionClient#289: start
+TransactionClient#289: changed transaction state: T_Trying
+SipProvider-5094: adding SipProviderListener: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+SipProvider-5094: 2 listeners: INVITE, 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address 'dev.4ng.net'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+
+
+404 not found tel: 1-915-747-5000
+16:25:03.455 Sun 25 May 2008, 85.234.143.115:5060/udp (361 bytes): REGISTER sip:dev.4ng.net SIP/2.0, sent
+no usar
+
+
+16:25:03.495 Sun 25 May 2008, 85.234.143.115:5060/udp (354 bytes): SIP/2.0 100 Trying, received
+
+WTF error is this!??
+eh he he he he
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+SipProvider-5094: message passed to transaction: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+TransactionClient#289: changed transaction state: T_Proceeding
+unknown error 
+qt mailhop not detected 
+
+16:25:03.495 Sun 25 May 2008, 85.234.143.115:5060/udp (430 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+SipProvider-5094: message passed to transaction: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+TransactionClient#289: changed transaction state: T_Completed
+ExtendedInviteDialog#76: inside refuse()
+ExtendedInviteDialog#76: inside refuse(403,Forbidden)
+se  interrupt detected tel: +33-342239
+ExtendedInviteDialog#76: inside respond(403,Forbidden)
+ExtendedInviteDialog#76: WARNING: Dialog isn't in "invited" state: cannot respond (403/D_WAITING/null)
+ExtendedInviteDialog#76: inside cancel()
+SipProvider-5094: removing SipProviderListener: INVITE
+SipProvider-5094: 1 listeners: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+TransactionServer#288: changed transaction state: T_Terminated
+ExtendedInviteDialog#76: inside bye()
+ExtendedCall: calling <sip:3001@dev.4ng.net>
+ExtendedInviteDialog#77: changed dialog state: D_INIT
+ExtendedInviteDialog#77: inside invite(callee,caller,contact,sdp)
+ExtendedInviteDialog#77: inside invite(invite)
+ExtendedInviteDialog#77: changed dialog state: D_INVITING
+ExtendedInviteDialog#77: new dialog id: 036789321884@192.168.1.3-z9hG4bK73345979-null
+SipProvider-5094: adding SipProviderListener: 036789321884@192.168.1.3-z9hG4bK73345979-null
+SipProvider-5094: 2 listeners: 036789321884@192.168.1.3-z9hG4bK73345979-null, 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+TransactionClient#290: id: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+TransactionClient#290: created
+TransactionClient#290: start
+TransactionClient#290: changed transaction state: T_Trying
+SipProvider-5094: adding SipProviderListener: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+SipProvider-5094: 3 listeners: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552, 036789321884@192.168.1.3-z9hG4bK73345979-null, 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address 'dev.4ng.net'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:05.318 Sun 25 May 2008, 85.234.143.115:5060/udp (518 bytes): INVITE sip:3001@dev.4ng.net SIP/2.0, sent
+
+
+16:25:05.368 Sun 25 May 2008, 85.234.143.115:5060/udp (345 bytes): SIP/2.0 100 Trying, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+SipProvider-5094: message passed to transaction: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+TransactionClient#290: changed transaction state: T_Proceeding
+ExtendedInviteDialog#77: inside onTransProvisionalResponse(tc,mdg)
+
+16:25:05.649 Sun 25 May 2008, 85.234.143.115:5060/udp (361 bytes): SIP/2.0 180 Ringing, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+SipProvider-5094: message passed to transaction: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+ExtendedInviteDialog#77: inside onTransProvisionalResponse(tc,mdg)
+
+syntax error 
+vp
+vp x
+16:25:07.261 Sun 25 May 2008, 85.234.143.115:5060/udp (655 bytes): SIP/2.0 200 OK, received
+out of memory at 3042
+not Taylor Swift 
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+SipProvider-5094: message passed to transaction: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+TransactionClient#290: changed transaction state: T_Terminated
+SipProvider-5094: removing SipProviderListener: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552
+SipProvider-5094: 2 listeners: 036789321884@192.168.1.3-z9hG4bK73345979-null, 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+ExtendedInviteDialog#77: inside onTransSuccessResponse(036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK29552,msg)
+ExtendedInviteDialog#77: inside onTransSuccessResponse(tc,msg)
+ExtendedInviteDialog#77: changed dialog state: D_CALL
+SipProvider-5094: removing SipProviderListener: 036789321884@192.168.1.3-z9hG4bK73345979-null
+SipProvider-5094: 1 listeners: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 
+ExtendedInviteDialog#77: new dialog id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: adding SipProviderListener: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: 2 listeners: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+AckTransactionClient#291: id: 036789321884@192.168.1.3-1-INVITE-192.168.1.3:5094-z9hG4bK97274
+AckTransactionClient#291: created
+AckTransactionClient#291: start
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:07.271 Sun 25 May 2008, 85.234.143.115:5060/udp (367 bytes): ACK sip:3001@85.234.143.115 SIP/2.0, sent
+
+AckTransactionClient#291: changed transaction state: T_Terminated
+TransactionClient#289: Clearing timeout expired
+SipProvider-5094: removing SipProviderListener: 922739503612@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK92227
+SipProvider-5094: 1 listeners: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+TransactionClient#289: changed transaction state: T_Terminated
+ExtendedInviteDialog#77: inside refuse()
+ExtendedInviteDialog#77: inside refuse(403,Forbidden)
+ExtendedInviteDialog#77: inside respond(403,Forbidden)
+ExtendedInviteDialog#77: WARNING: Dialog isn't in "invited" state: cannot respond (403/D_CALL/036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09)
+ExtendedInviteDialog#77: inside cancel()
+ExtendedInviteDialog#77: inside bye()
+ExtendedInviteDialog#77: inside bye(bye)
+ExtendedInviteDialog#77: changed dialog state: D_BYEING
+TransactionClient#292: id: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890
+TransactionClient#292: created
+TransactionClient#292: start
+TransactionClient#292: changed transaction state: T_Trying
+SipProvider-5094: adding SipProviderListener: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890
+SipProvider-5094: 2 listeners: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:13.760 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+ExtendedInviteDialog#78: changed dialog state: D_INIT
+ExtendedInviteDialog#78: changed dialog state: D_WAITING
+TransactionServer#293: id: INVITE
+TransactionServer#293: created
+TransactionServer#293: start
+TransactionServer#293: changed transaction state: T_Waiting
+SipProvider-5094: adding SipProviderListener: INVITE
+SipProvider-5094: 3 listeners: INVITE, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+
+16:25:13.810 Sun 25 May 2008, 85.234.143.115:5060/udp (353 bytes): SIP/2.0 200 OK, received
+
+permission error err
+uh err
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+
+16:25:14.141 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:14.291 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+tn
+
+16:25:14.341 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:15.292 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:15.333 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+
+16:25:15.333 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+
+16:25:16.144 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+
+16:25:17.135 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:17.295 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:17.335 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+
+16:25:19.478 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+receive error on message, permissions error 
+ant apple 
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+
+16:25:19.478 Sun 25 May 2008, 85.234.143.115:5060/udp (481 bytes): NOTIFY sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-102-NOTIFY-85.234.143.115:5060-z9hG4bK51f10c41
+SipProvider-5094: DEBUG: dialog-id: 2f64c4e57b3a0ac06034f5d446a6075b@85.234.143.115-null-as412eab1e
+SipProvider-5094: No SipListener found matching that message: message DISCARDED
+SipProvider-5094: Pending SipProviderListeners= 3
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:21.291 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:21.341 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+
+16:25:22.994 Sun 25 May 2008, 85.234.143.115:5060/udp (872 bytes): INVITE sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-null-as4850ad1f
+SipProvider-5094: message passed to uas: INVITE
+SipProvider-5094: adding SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23
+SipProvider-5094: 4 listeners: INVITE, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+SipProvider-5094: removing SipProviderListener: INVITE
+SipProvider-5094: 3 listeners: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+TransactionServer#293: changed transaction state: T_Trying
+SipProvider-5094: Sending message through conn null
+SipProvider-5094: no active connection found matching null
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:23.004 Sun 25 May 2008, 85.234.143.115:5060/udp (293 bytes): SIP/2.0 100 Trying, sent
+
+TransactionServer#293: changed transaction state: T_Proceeding
+ExtendedInviteDialog#78: inside onTransRequest(ts,msg)
+ExtendedInviteDialog#78: changed dialog state: D_INVITED
+ExtendedInviteDialog#78: new dialog id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-null-as4850ad1f
+SipProvider-5094: adding SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-null-as4850ad1f
+SipProvider-5094: 4 listeners: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-null-as4850ad1f, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+ExtendedInviteDialog#78: inside ring()
+ExtendedInviteDialog#78: inside respond(180,Ringing)
+ExtendedInviteDialog#78: inside respond(resp)
+ExtendedInviteDialog#78: inside respond(resp)
+SipProvider-5094: Sending message through conn null
+SipProvider-5094: no active connection found matching null
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:23.004 Sun 25 May 2008, 85.234.143.115:5060/udp (294 bytes): SIP/2.0 180 Ringing, sent
+
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:25.297 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:25.337 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+ExtendedInviteDialog#78: inside accept(sdp)
+ExtendedInviteDialog#78: inside respond(200,OK)
+ExtendedInviteDialog#78: inside respond(resp)
+ExtendedInviteDialog#78: inside respond(resp)
+SipProvider-5094: removing SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-null-as4850ad1f
+SipProvider-5094: 3 listeners: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+ExtendedInviteDialog#78: new dialog id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: adding SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: 4 listeners: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+ExtendedInviteDialog#78: changed dialog state: D_ACCEPTED
+SipProvider-5094: removing SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK7fa0aa23
+SipProvider-5094: 3 listeners: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+TransactionServer#293: changed transaction state: T_Terminated
+AckTransactionServer#294: id: ACK
+AckTransactionServer#294: created
+AckTransactionServer#294: start
+AckTransactionServer#294: changed transaction state: T_Proceeding
+SipProvider-5094: Sending message through conn null
+SipProvider-5094: no active connection found matching null
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:26.609 Sun 25 May 2008, 85.234.143.115:5060/udp (514 bytes): SIP/2.0 200 OK, sent
+
+
+16:25:26.649 Sun 25 May 2008, 85.234.143.115:5060/udp (367 bytes): ACK sip:3003@192.168.1.3:5094 SIP/2.0, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-102-INVITE-85.234.143.115:5060-z9hG4bK4525ae8e
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: ACK sip:3003@192.168.1.3:5094 SIP/2.0
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: changed dialog state: D_CALL
+AckTransactionServer#294: changed transaction state: T_Terminated
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+qc tel: (202)224-4944
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:29.303 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:29.353 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+ExtendedInviteDialog#78: inside refuse()
+ExtendedInviteDialog#78: inside refuse(403,Forbidden)
+ExtendedInviteDialog#78: inside respond(403,Forbidden)
+ExtendedInviteDialog#78: WARNING: Dialog isn't in "invited" state: cannot respond (403/D_CALL/664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f)
+ExtendedInviteDialog#78: inside cancel()
+ExtendedInviteDialog#78: inside bye()
+ExtendedInviteDialog#78: inside bye(bye)
+ExtendedInviteDialog#78: changed dialog state: D_BYEING
+TransactionClient#295: id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802
+TransactionClient#295: created
+TransactionClient#295: start
+TransactionClient#295: changed transaction state: T_Trying
+SipProvider-5094: adding SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802
+SipProvider-5094: 4 listeners: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:30.985 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+ExtendedInviteDialog#79: changed dialog state: D_INIT
+ExtendedInviteDialog#79: changed dialog state: D_WAITING
+TransactionServer#296: id: INVITE
+TransactionServer#296: created
+TransactionServer#296: start
+TransactionServer#296: changed transaction state: T_Waiting
+SipProvider-5094: adding SipProviderListener: INVITE
+SipProvider-5094: 5 listeners: INVITE, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+
+16:25:31.025 Sun 25 May 2008, 85.234.143.115:5060/udp (387 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:31.496 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:31.536 Sun 25 May 2008, 85.234.143.115:5060/udp (387 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:32.497 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:32.537 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:33.308 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:33.348 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:34.500 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:34.540 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:37.304 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:37.354 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:38.496 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:38.546 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:41.310 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:41.350 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:42.502 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:42.542 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#292: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:45.316 Sun 25 May 2008, 85.234.143.115:5060/udp (314 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:45.356 Sun 25 May 2008, 85.234.143.115:5060/udp (328 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 036789321884@192.168.1.3-2-BYE-86.129.87.141:5094-z9hG4bK96890
+SipProvider-5094: DEBUG: dialog-id: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: message passed to dialog: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+ExtendedInviteDialog#77: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#77: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#77: WARNING: dialog state mismatching
+TransactionClient#292: Transaction timeout expired
+SipProvider-5094: removing SipProviderListener: 036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890
+SipProvider-5094: 4 listeners: INVITE, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09, 
+TransactionClient#292: changed transaction state: T_Terminated
+ExtendedInviteDialog#77: inside onTransTimeout(036789321884@192.168.1.3-2-BYE-192.168.1.3:5094-z9hG4bK96890,msg)
+ExtendedInviteDialog#77: inside onTransTimeout(tc,msg)
+ExtendedInviteDialog#77: changed dialog state: D_CLOSE
+SipProvider-5094: removing SipProviderListener: 036789321884@192.168.1.3-z9hG4bK73345979-as7c4dbb09
+SipProvider-5094: 3 listeners: INVITE, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:46.507 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:46.547 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:50.513 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:50.553 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:54.519 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:54.559 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:25:58.515 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:25:58.555 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address '85.234.143.115'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:26:02.520 Sun 25 May 2008, 85.234.143.115:5060/udp (348 bytes): BYE sip:3001@85.234.143.115 SIP/2.0, sent
+
+
+16:26:02.560 Sun 25 May 2008, 85.234.143.115:5060/udp (362 bytes): SIP/2.0 200 OK, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: DEBUG: transaction-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-86.129.87.141:5094-z9hG4bK22802
+SipProvider-5094: DEBUG: dialog-id: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: message passed to dialog: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+ExtendedInviteDialog#78: Message received: SIP/2.0 200 OK
+ExtendedInviteDialog#78: inside onReceivedMessage(sip_provider,message)
+ExtendedInviteDialog#78: WARNING: dialog state mismatching
+TransactionClient#295: Transaction timeout expired
+SipProvider-5094: removing SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802
+SipProvider-5094: 2 listeners: INVITE, 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f, 
+TransactionClient#295: changed transaction state: T_Terminated
+ExtendedInviteDialog#78: inside onTransTimeout(664a5bec41fd08a21229a9786b297e5d@85.234.143.115-1-BYE-192.168.1.3:5094-z9hG4bK22802,msg)
+ExtendedInviteDialog#78: inside onTransTimeout(tc,msg)
+ExtendedInviteDialog#78: changed dialog state: D_CLOSE
+SipProvider-5094: removing SipProviderListener: 664a5bec41fd08a21229a9786b297e5d@85.234.143.115-0d609392fadd3445-as4850ad1f
+SipProvider-5094: 1 listeners: INVITE, 
+TransactionClient#297: id: 404779496712@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK05822
+TransactionClient#297: created
+TransactionClient#297: start
+TransactionClient#297: changed transaction state: T_Trying
+SipProvider-5094: adding SipProviderListener: 404779496712@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK05822
+SipProvider-5094: 2 listeners: INVITE, 404779496712@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK05822, 
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address 'dev.4ng.net'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+
+16:28:05.858 Sun 25 May 2008, 85.234.143.115:5060/udp (358 bytes): REGISTER sip:dev.4ng.net SIP/2.0, sent
+
+ExtendedInviteDialog#79: inside refuse()
+ExtendedInviteDialog#79: inside refuse(403,Forbidden)
+ExtendedInviteDialog#79: inside respond(403,Forbidden)
+ExtendedInviteDialog#79: WARNING: Dialog isn't in "invited" state: cannot respond (403/D_WAITING/null)
+ExtendedInviteDialog#79: inside cancel()
+SipProvider-5094: removing SipProviderListener: INVITE
+SipProvider-5094: 1 listeners: 404779496712@192.168.1.3-1-REGISTER-192.168.1.3:5094-z9hG4bK05822, 
+TransactionServer#296: changed transaction state: T_Terminated
+ExtendedInviteDialog#79: inside bye()
+SipProvider-5094: halt: SipProvider is going down
+
+16:28:05.918 Sun 25 May 2008, 85.234.143.115:5060/udp (354 bytes): SIP/2.0 100 Trying, received
+
+SipProvider-5094: received new SIP message
+SipProvider-5094: no listener found: meesage discarded.
+SipProvider-5094: transport udp:null:5094 terminated
+TransactionClient#297: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address 'dev.4ng.net'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+Exception: java.lang.NullPointerException
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:682)
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:663)
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:814)
+	at org.zoolu.sip.transaction.TransactionClient.onTimeout(TransactionClient.java:127)
+	at org.zoolu.tools.Timer.onInnerTimeout(Timer.java:126)
+	at org.zoolu.tools.InnerTimer.run(InnerTimer.java:43)
+
+TransactionClient#297: Retransmission timeout expired
+SipProvider-5094: using transport udp
+SipProvider-5094: Resolving host address 'dev.4ng.net'
+SipProvider-5094: Sending message to udp:85.234.143.115:5060
+Exception: java.lang.NullPointerException
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:682)
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:663)
+	at org.zoolu.sip.provider.SipProvider.sendMessage(SipProvider.java:814)
+	at org.zoolu.sip.transaction.TransactionClient.onTimeout(TransactionClient.java:127)
+	at org.zoolu.tools.Timer.onInnerTimeout(Timer.java:126)
+	at org.zoolu.tools.InnerTimer.run(InnerTimer.java:43)
+tu  stackoverflow.com/?bash tel: 32238.82.3
+
+
+
+
+-----------------------------
+
+
+
+
+01
+$ jmap -J-d64 $JAVA_HOME/bin/java /var/tmp/cores/java.14015.146385.core
+02
+Debugger attached successfully.
+03
+Server compiler detected.
+04
+JVM version is 17.0-b16
+05
+0x0000000040000000      49K     /usr/sunjdk/1.6.0_21/bin/java
+06
+0x0000002a9566c000      124K    /lib64/tls/libpthread.so.0
+07
+0x0000002a95782000      47K     /usr/sunjdk/1.6.0_21/jre/lib/amd64/jli/libjli.so
+08
+0x0000002a9588c000      16K     /lib64/libdl.so.2
+09
+0x0000002a9598f000      1593K   /lib64/tls/libc.so.6
+10
+0x0000002a95556000      110K    /lib64/ld-linux-x86-64.so.2
+11
+0x0000002a95bca000      11443K  /usr/sunjdk/1.6.0_21/jre/lib/amd64/server/libjvm.so
+12
+0x0000002a96699000      625K    /lib64/tls/libm.so.6
+13
+0x0000002a9681f000      56K     /lib64/tls/librt.so.1
+14
+0x0000002a96939000      65K     /usr/sunjdk/1.6.0_21/jre/lib/amd64/libverify.so
+15
+0x0000002a96a48000      228K    /usr/sunjdk/1.6.0_21/jre/lib/amd64/libjava.so
+16
+0x0000002a96b9e000      109K    /lib64/libnsl.so.1
+17
+0x0000002a96cb6000      54K     /usr/sunjdk/1.6.0_21/jre/lib/amd64/native_threads/libhpi.so
+18
+0x0000002a96de8000      57K     /lib64/libnss_files.so.2
+19
+0x0000002a96ef4000      551K    /lib64/libnss_db.so.2
+20
+0x0000002a97086000      89K     /usr/sunjdk/1.6.0_21/jre/lib/amd64/libzip.so
+21
+0x0000002b1cecf000      6K      /home/sharfah/tmp/jni/libnativelib.so
+
+-------------------------------
+file extension error
+my : checking second component of dns1.my.example.com : my
+___
+
+
+
+
+
+
+
+
+Thread 16788: (state = BLOCKED)
+10
+ 
+11
+Thread 16787: (state = BLOCKED)
+12
+ - java.lang.Object.wait(long) @bci=0 (Interpreted frame)
+13
+ - java.lang.ref.ReferenceQueue.remove(long) @bci=44, line=118 (Interpreted frame)
+14
+ - java.lang.ref.ReferenceQueue.remove() @bci=2, line=134 (Interpreted frame)
+15
+ - java.lang.ref.Finalizer$FinalizerThread.run() @bci=3, line=159 (Interpreted frame)
+16
+ 
+17
+Thread 16786: (state = BLOCKED)
+18
+ - java.lang.Object.wait(long) @bci=0 (Interpreted frame)
+19
+ - java.lang.Object.wait() @bci=2, line=485 (Interpreted frame)
+20
+ - java.lang.ref.Reference$ReferenceHandler.run() @bci=46, line=116 (Interpreted frame)
+21
+ 
+22
+Thread 16780: (state = IN_NATIVE)
+23
+ - CoreDumper.core() @bci=0 (Interpreted frame)
+24
+ - CoreDumper.main(java.lang.String[]) @bci=7, line=12 (Interpreted frame)
+
+-----------------------
+error/warning
+at tention: pr inter is low in ink: pl ease replace
+PARSING IN CURSOR #40 len=708 dep=0 uid=260 oct=3 lid=260 tim=9922116459716 hv=256108709 ad='8fbbcdf0' 
+select leaves0_.TRIPNUM as TRIPNUM1_, leaves0_.LVDATE as LVDATE1_, leaves0_.U##VCHNUM as U1_1_, leaves0_.U##SSN as U2_1_, 
+leaves0_.ADJ_LEVEL as ADJ4_1_, leaves0_.U##DOCTYPE as U3_1_, leaves0_.U##VCHNUM as U1_56_0_, leaves0_.U##SSN as U2_56_0_, 
+leaves0_.U##DOCTYPE as U3_56_0_, leaves0_.ADJ_LEVEL as ADJ4_56_0_, leaves0_.TRIPNUM as TRIPNUM56_0_, leaves0_.LVDATE as LVDATE56_0_, 
+leaves0_.VCHNUM as VCHNUM56_0_, leaves0_.SSN as SSN56_0_, leaves0_.DOCTYPE as DOCTYPE56_0_, leaves0_.LVTYPE as LVTYPE56_0_, 
+leaves0_.LVHOUR as LVHOUR56_0_ from FRED.TLEAVE leaves0_ 
+where leaves0_.TRIPNUM=:1 and leaves0_.LVDATE=:2 and leaves0_.U##VCHNUM=:3 
+and leaves0_.U##SSN=:4 and leaves0_.ADJ_LEVEL=:5 and leaves0_.U##DOCTYPE=:6 
+END OF STMT 
+EXEC #40:c=0,e=1039,p=0,cr=0,cu=0,mis=0,r=0,dep=0,og=1,tim=9922116459708 
+FETCH #40:c=0,e=19948,p=2,cr=2,cu=0,mis=0,r=0,dep=0,og=1,tim=9922116479812 
+BINDS #40: 
+kkscoacd 
+Bind#0 
+oacdty=02 mxl=22(22) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000000 frm=01 csi=01 siz=160 off=0 
+kxsbbbfp=ffffffff7ad37f40 bln=22 avl=02 flg=05 
+value=1 
+Bind#1 
+oacdty=180 mxl=11(11) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000000 frm=01 csi=01 siz=0 off=24 
+kxsbbbfp=ffffffff7ad37f58 bln=11 avl=07 flg=01 
+value= 
+Dump of memory from 0xFFFFFFFF7AD37F58 to 0xFFFFFFFF7AD37F5F 
+FFFFFFFF7AD37F50 786B0C1A 010101E0 [xk......] 
+bz  bz bz bz bz tel: 8763482
+Bind#2 
+oacdty=01 mxl=32(22) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000010 frm=01 csi=01 siz=0 off=40 
+kxsbbbfp=ffffffff7ad37f68 bln=32 avl=21 flg=01 
+value="GODETROITMI122307_A01" 
+Bind#3 
+oacdty=01 mxl=32(09) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000010 frm=01 csi=01 siz=0 off=72 
+kxsbbbfp=ffffffff7ad37f88 bln=32 avl=09 flg=01 
+value="XXXXX0007" 
+ds tel: 1(888)452-1505
+Bind#4 
+oacdty=02 mxl=22(22) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000000 frm=01 csi=01 siz=0 off=104 
+kxsbbbfp=ffffffff7ad37fa8 bln=22 avl=01 flg=01 
+value=0 
+bl tel: 915-747-5000 server error 
+Bind#5 
+oacdty=01 mxl=32(04) mxlc=00 mal=00 scl=00 pre=00 
+oacflg=03 fl2=1000010 frm=01 csi=01 siz=0 off=128 
+kxsbbbfp=ffffffff7ad37fc0 bln=32 avl=04 flg=01 
+value="AUTH" 
+syntax error at line 0, compilation continues
+syntax error at line 0, compilation ends
+
+
+http: 403 access-forbidden error 
+jo wrote this

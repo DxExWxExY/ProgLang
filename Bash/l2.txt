@@ -1,0 +1,1176 @@
+
+start 
+ai tel: 7383x342
+ var CS_env = {"token": "CEPAioW1MGIfPUm3uQJLKG6ERvU:1393634080127", "domainName": null, "loggedInUserEmail": "nigel@utep.edu", "assetHostPath": "https://ssl.gstatic.com/codesite/ph", "assetVersionPath": "https://ssl.gstatic.com/codesite/ph/814337104528787223", "profileUrl": "/u/106692951934468003361/", "projectHomeUrl": "/p/hypertable", "projectName": "hypertable", "relativeBaseUrl": ""};
+ var _gaq = _gaq || [];
+ _gaq.push(
+ ['siteTracker._setAccount', 'UA-18071-1'],
+ ['siteTracker._trackPageview']);
+ 
+ _gaq.push(
+ ['projectTracker._setAccount', 'UA-3739511-2'],
+ ['projectTracker._trackPageview']);
+tel: 200-555-2020 server error 
+ 
+ (function() {
+hf  coredump tel: 78098
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+ })();
+ 
+ </script>
+ 
+ <title>UpAndRunningWithHadoop - 
+ hypertable -
+ 
+rf obamacare fan tel: 972-2392110  intersection not empty
+az borneo tel: 555-555-5566 check again
+ Instructions on how to get Hypertable up and running with Hadoop (HDFS) - 
+ A high performance, scalable, distributed storage and processing system for structured and unstructured data. - Google Project Hosting
+ </title>
+ <link type="text/css" rel="stylesheet" href="https://ssl.gstatic.com/codesite/ph/814337104528787223/css/core.css">
+ 
+ <link type="text/css" rel="stylesheet" href="https://ssl.gstatic.com/codesite/ph/814337104528787223/css/ph_detail.css" >
+ 
+memory error
+memory error?
+syntax error  
+aa 
+
+error in syntax 
+bq
+ 
+ 
+ <link type="application/atom+xml" rel="alternate" href="/feeds/p/hypertable/svnchanges/basic?path=/wiki/UpAndRunningWithHadoop.wiki">
+ 
+ 
+<!--[if IE]>
+ <link type="text/css" rel="stylesheet" href="https://ssl.gstatic.com/codesite/ph/814337104528787223/css/d_ie.css" >
+<![endif]-->
+ <style type="text/css">
+ .menuIcon.off { background: no-repeat url(https://ssl.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -42px }
+ .menuIcon.on { background: no-repeat url(https://ssl.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 -28px }
+ .menuIcon.down { background: no-repeat url(https://ssl.gstatic.com/codesite/ph/images/dropdown_sprite.gif) 0 0; }
+az borneo dropdown disandrm tel: (555)555-5566 
+ 
+ #maincol {
+ padding-top: 0;
+cs  tel: 737-00-00 
+ padding-bottom: 0;
+ }
+
+ 
+ </style>
+</head>
+<body class="t6">
+<script type="text/javascript">
+ window.___gcfg = {lang: 'en'};
+ (function() 
+ {var po = document.createElement("script");
+ po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js";
+ var s = document.getElementsByTagName("script")[0];
+ s.parentNode.insertBefore(po, s);
+ })();
+</script>
+<div class="headbg">
+
+ <div id="gaia">
+ab permissions error 
+
+ <span>
+
+ 
+ 
+ <b>nigel@utep.edu</b>
+ 
+af fav dropdown disandrm tel: 1(115)555-0000   aarlk
+ | <a href="/u/106692951934468003361/" id="projects-dropdown" onclick="return false;"
+ ><u>My favorites</u> <small>&#9660;</small></a>
+ | <a href="/u/106692951934468003361/" onclick="_CS_click('/gb/ph/profile');"
+ title="Profile, Updates, and Settings"
+ ><u>Profile</u></a>
+ | <a href="https://www.google.com/accounts/Logout?continue=https%3A%2F%2Fcode.google.com%2Fp%2Fhypertable%2Fwiki%2FUpAndRunningWithHadoop" 
+ onclick="_CS_click('/gb/ph/signout');"
+ ><u>Sign out</u></a>
+ 
+ </span>
+
+ </div>
+
+ <div class="gbh" style="left: 0pt;"></div>
+ <div class="gbh" style="right: 0pt;"></div>
+ 
+ 
+ <div style="height: 1px"></div>
+<!--[if lte IE 7]>
+<div style="text-align:center;">
+Your version of Internet Explorer is not supported. Try a browser that
+contributes to open source, such as <a href="http://www.firefox.com">Firefox</a>,
+<a href="http://www.google.com/chrome">Google Chrome</a>, or
+<a href="http://code.google.com/chrome/chromeframe/">Google Chrome Frame</a>.
+</div>
+<![endif]-->
+
+
+
+ <table style="padding:0px; margin: 0px 0px 10px 0px; width:100%" cellpadding="0" cellspacing="0"
+ itemscope itemtype="http://schema.org/CreativeWork">
+ <tr style="height: 58px;">
+ 
+ 
+ 
+ <td id="plogo">
+ <link itemprop="url" href="/p/hypertable">
+ <a href="/p/hypertable/">
+ 
+ <img src="https://ssl.gstatic.com/codesite/ph/images/defaultlogo.png" alt="Logo" itemprop="image">
+ 
+ </a>
+ </td>
+ 
+ <td style="padding-left: 0.5em">
+ 
+ <div id="pname">
+ <a href="/p/hypertable/"><span itemprop="name">hypertable</span></a>
+ </div>
+ 
+ <div id="psum">
+ <a id="project_summary_link"
+ href="/p/hypertable/"><span itemprop="description">A high performance, scalable, distributed storage and processing system for structured and unstructured data.</span></a>
+ 
+ </div>
+ 
+ 
+ </td>
+ <td style="white-space:nowrap;text-align:right; vertical-align:bottom;">
+ 
+ <form action="/hosting/search">
+ <input size="30" name="q" value="" type="text">
+ 
+ <input type="submit" name="projectsearch" value="Search projects" >
+ </form>
+ 
+ </tr>
+ </table>
+
+</div>
+
+ 
+<div id="mt" class="gtb"> 
+ <a href="/p/hypertable/" class="tab ">Project&nbsp;Home</a>
+ 
+ 
+ 
+ 
+ <a href="/p/hypertable/downloads/list" class="tab ">Downloads</a>
+ 
+ 
+ 
+ 
+ 
+ <a href="/p/hypertable/w/list" class="tab active">Wiki</a>
+ 
+ 
+ 
+ 
+ 
+ <a href="/p/hypertable/issues/list"
+ class="tab ">Issues</a>
+pc  tel: +52.087.238.348-34-x 
+ 
+ 
+ 
+ 
+ <a href="/p/hypertable/wiki/SourceCode?tm=4"
+ class="tab ">Source</a>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div class=gtbc></div>
+</div>
+<table cellspacing="0" cellpadding="0" width="100%" align="center" border="0" class="st">
+ <tr>
+ 
+ 
+ 
+ <td class="subt">
+ <div class="issueDetail">
+<div class="isf">
+ 
+ <span class="inIssueList"> 
+ <span>Search</span>
+ <form action="/p/hypertable/w/list" method="GET" style="display:inline">
+ <select id="can" name="can" >
+ <option disabled="disabled">Search within:</option>
+ 
+ <option value="1" >&nbsp;All wiki pages</option>
+ <option value="3" >&nbsp;Featured pages</option>
+ <option value="2" selected="selected">&nbsp;Current pages</option>
+ 
+ 
+ <option value="5" >&nbsp;My starred pages</option>
+ 
+ <option value="4" >&nbsp;Deprecated pages</option>
+ 
+ </select>
+ <span>for</span>
+ <span id="qq"><input type="text" size="38" id="searchq" name="q" value=""
+ autocomplete="off" ></span>
+ 
+ 
+ 
+ <input type="submit" value="Search" >
+ </form>
+ </span>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+</div>
+</div>
+
+ </td>
+ 
+ 
+ 
+ 
+ 
+ 
+ <td align="right" valign="top" class="bevel-right"></td>
+ </tr>
+</table>
+
+
+<script type="text/javascript">
+ var cancelBubble = false;
+ function _go(url) { document.location = url; }
+</script>
+<div id="maincol"
+ 
+>
+
+ 
+
+
+
+
+
+
+
+ <style type="text/css">
+ .delcom { background: #e8e8e8 }
+ .commentcontent {
+ margin: 2em;
+ padding: 0px 10px;
+ width: 66em;
+ }
+ .artifactcomment {
+ border-top: 3px solid #c3d9ff;
+ }
+ #commentform {
+ border-top: 3px solid #c3d9ff;
+ }
+ </style>
+
+<div id="wikipage">
+<table>
+ <tr>
+ 
+ 
+ <td style="vertical-align:top; padding-left:5px">
+ 
+ <div id="wikiheader">
+ 
+ <img width="15" height="15" id="star_img"
+ src="https://ssl.gstatic.com/codesite/ph/images/star_off.gif"
+ style="cursor:pointer"
+ onclick="_CS_toggleStar(this,
+ {'scope': 'wiki',
+ 'user': '_CURRENT_USER',
+ 'item': 'hypertable:UpAndRunningWithHadoop'
+ });"/>
+ 
+ <span style="font-size:120%;font-weight:bold">UpAndRunningWithHadoop</span>
+ &nbsp;
+ <div> 
+ 
+ <i>Instructions on how to get Hypertable up and running with Hadoop (HDFS)</i>
+ 
+ 
+ 
+ <div id="wikiauthor" style="float:right">
+ Updated <span title="Thu Mar 25 17:10:34 2010">
+ Mar 25, 2010</span>
+ 
+ by 
+
+ <a class="userlink"
+ href="/u/112635881291744521932/">nuggetwh...@gmail.com</a
+>
+ 
+ </div>
+ </div>
+ </div>
+ 
+ <div id="wikicontent">
+ <div class="vt" id="wikimaincol">
+ <p><ul><ul><li><a href="#Starting_the_Servers">Starting the Servers</a></li><li><a href="#Stopping_the_System">Stopping the System</a></li></ul></ul> </p><h2><a name="Starting_the_Servers"></a>Starting the Servers<a href="#Starting_the_Servers" class="section_anchor"></a></h2><p><strong>Step 1.</strong> Synchronize clocks on all machines </p><p>The system cannot operate correctly unless the clocks on all machines are synchronized.  Use the <a href="http://www.ntp.org/" rel="nofollow">Network Time Protocol (ntp)</a> to ensure that the clocks get synchronized and remain in sync.  Run the &#x27;date&#x27; command on all machines to make sure they are in sync.  The following Capistrano shell session show the output of a cluster with properly synchronized clocks. </p><pre class="prettyprint">cap&gt; date
+[establishing connection(s) to motherlode000, motherlode001, motherlode002, motherlode003, motherlode004, motherlode005, motherlode006, motherlode007, motherlode008]
+ ** [out :: motherlode001] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode002] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode003] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode004] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode005] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode007] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode006] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode000] Sat Jan  3 18:05:33 PST 2009
+ ** [out :: motherlode008] Sat Jan  3 18:05:33 PST 2009</pre><p><strong>Step 2.</strong> Install and start Hadoop. </p><p><strong>Step 3.</strong> Create the directory <tt>/hypertable</tt> in HDFS and make it writeable by all. </p><pre class="prettyprint">$ hadoop fs -mkdir /hypertable
+$ hadoop fs -chmod 777 /hypertable</pre><p><strong>Step 4.</strong> Edit the config file conf/hypertable.cfg  Change the following property to point to the Hadoop filesystem that got up and running in step 2 (assuming hdfs://motherlode000:9000): </p><pre class="prettyprint">HdfsBroker.fs.default.name=hdfs://motherlode001:9000</pre><p>Change the following two properties to point to the location of the Hypertable Master and Hyperspace (assuming motherlode001): </p><pre class="prettyprint">Hyperspace.Master.Host=motherlode001
+server error tel: 915-555-5555
+Hypertable.Master.Host=motherlode001</pre><p><strong>Step 5.</strong> Configure Capistrano for your specific cluster and HDFS.  See <a href="/p/hypertable/wiki/DeployingHypertable">How to Deploy Hypertable</a> for details.  The following is an example of how the variables at the top of the Capfile might be changed for HDFS. </p><pre class="prettyprint">------------- Capfile ----------------
+set :source_machine, &quot;motherlode000&quot;
+set :install_dir,    &quot;/opt/hypertable&quot; 
+set :hypertable_version, &quot;0.9.2.7&quot;
+set :default_dfs, &quot;hadoop&quot;
+set :default_config, &quot;/opt/hypertable/cluster1-standard.cfg&quot;
+
+role :master, &quot;motherlode001&quot;
+role :slave,  &quot;motherlode001&quot;, &quot;motherlode002&quot;, &quot;motherlode003&quot;, &quot;motherlode004&quot;, &quot;motherlode005&quot;, &quot;motherlode006&quot;, &quot;motherlode007&quot;, &quot;motherlode008&quot;</pre><p><strong>Step 6.</strong> Compile the Hypertable code and install under the installation directory (e.g. /data1/doug/hypertable) </p><p><strong>Step 7.</strong> Distribute the installation </p><pre class="prettyprint">$ cap dist</pre><p><strong>Step 8.</strong> Start the servers </p><pre class="prettyprint">$ cap start</pre><p>Now you sould be able to run the <tt>~/hypertable/bin/ht shell</tt> HQL command interpreter and start playing around. </p><h2><a name="Stopping_the_System"></a>Stopping the System<a href="#Stopping_the_System" class="section_anchor"></a></h2><pre class="prettyprint">$ cap stop</pre>
+ </div>
+ </div>
+ </td><tr>
+</table>
+ </div>
+
+
+ 
+ <div id="wikicommentcol">
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<div class="collapse">
+
+
+ 
+
+
+<div id="commentlist">
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/110444713664416290107/">get2srin...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Thu Feb  7 22:16:52 2008">Feb 7, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>how to for windows? </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/109975967172963015609/">dr.chamb...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Thu Feb 14 13:26:01 2008">Feb 14, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>[cmolina@dungun hypertable]$ bin/start-master.sh hadoop DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) hasn&#x27;t come up yet, trying again in 5 seconds ... Num CPUs=2 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Port=38030 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Reactors=2 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Workers=20 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Server.fs.default.name=hdfs://localhost:9000 org.apache.hadoop.ipc.RPC$VersionMismatch<a href="/p/hypertable/w/edit/VersionMismatch">?</a>: Protocol org.apache.hadoop.dfs.ClientProtocol<a href="/p/hypertable/w/edit/ClientProtocol">?</a> version mismatch. (client = 14, server = 20) <blockquote>at org.apache.hadoop.ipc.RPC.getProxy(RPC.java:253) 
+at org.apache.hadoop.dfs.DFSClient.createNamenode(DFSClient.java:141) 
+at org.apache.hadoop.dfs.DFSClient.&lt;init&gt;(DFSClient.java:153) 
+at org.apache.hadoop.dfs.DistributedFileSystem<a href="/p/hypertable/w/edit/DistributedFileSystem">?</a>.initialize(DistributedFileSystem<a href="/p/hypertable/w/edit/DistributedFileSystem">?</a>.java:66) 
+at org.apache.hadoop.fs.FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.get(FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.java:159) 
+at org.apache.hadoop.fs.FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.getNamed(FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.java:118) 
+at org.apache.hadoop.fs.FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.get(FileSystem<a href="/p/hypertable/w/edit/FileSystem">?</a>.java:90) 
+at org.hypertable.DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a>.hadoop.HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.&lt;init&gt;(HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.java:71) 
+at org.hypertable.DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a>.hadoop.main.main(main.java:136) 
+</blockquote>Problem statring DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) </p><p>Does this means I have a hadoop release that&#x27;s too new? Could you add to this wiki the version of hadoop that the current hypertable release supports?. </p><p>Thanks a lot, Can&#x27;t wait to get this thing up and running to migrate all our &quot;vintage&quot; systems. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/109975967172963015609/">dr.chamb...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Thu Feb 14 18:33:27 2008">Feb 14, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>Found the fix. Replace your hypertable_installation_dir/lib/java/hadoop-core-x-x-x.jar file with the one that comes in your hadoop_installation_dir/hadoop-core-x-x-x.jar. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ 
+ <span class="userlink">chru...@gmail.com</span>,
+ 
+ </span>
+ <span class="date" title="Tue Apr  8 07:40:17 2008">Apr 8, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>Is it necessary to turn on extended attributes on all nodes? </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by  project member 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/107347049478082217471/">vic...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Tue Apr  8 12:55:29 2008">Apr 8, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>@chrulle, <strong>Only</strong> the node running hyperspace <strong>needs</strong> it.  </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/104145051657549556484/">sydney.p...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Jul 28 14:43:42 2008">Jul 28, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>I believe the kill-servers.sh script is now changed to stop-servers.sh </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/104145051657549556484/">sydney.p...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Fri Aug 15 19:15:50 2008">Aug 15, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>I&#x27;m having difficulty with these instructions running Ubuntu (Hardy). First, Rubygems does not correctly install Capistrano. I get a command not found error after &#x27;sudo gem install capistrano&#x27;. I was able to find a fix for this, but that is not related to Hypertable so I will leave out the details.  </p><p>Once Capistrano is correctly installed, I can get &#x27;cap dist&#x27; to work properly and distribute files across my cluster, but I get errors when I try to do &#x27;cap start&#x27;. The error messages read &#x27;error while loading shared libraries: libHyperDfsBroker.so: cannot open shared object file: No such file or directory.&#x27; In the past, I have gotten past this problem by setting the LD_LIBRARY_PATH environment variable locally on each machine, so what I did to fix this was to add a line in the start_master task, just before the line in which start-dfsbroker.sh is called, which reads &#x27;export LD_LIBRARY_PATH=#{install_dir}/#{hypertable_version}/lib/ &amp;&amp;&#x27;.  </p><p>Now, my problem is that I am getting timeout errors from the DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> which reads:  <blockquote>Waiting for DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) to come up... 
+Waiting for DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) to come up... 
+Waiting for DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) to come up... 
+ERROR: DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a> (hadoop) did not come up 
+</blockquote></p><p>I have hadoop up and running on all of the machines that I am working with, so I&#x27;m just a little confused right now because this worked with the previous version of Hypertable that I used (0.9.0.7). </p><p>Any thoughts? </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/104253215942503262418/">jamesser...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Tue Dec  2 19:06:13 2008">Dec 2, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>Hello,  </p><p>When I run &quot;cap dist&quot; i get the following output: hadoop@hypertable1:~/hypertable/conf$ cap dist <ul><li>executing `dist&#x27; </li></ul><ul><li> transaction: start </li><ul><li>executing `copy_config&#x27; </li><li>executing &quot;cp /home/hadoop/hypertable/conf/cluster1-standard.cfg /home/hadoop/hypertable/0.9.0.12/conf&quot; </li><blockquote>servers: [&quot;localhost&quot;] 
+</blockquote></ul></ul>connection failed for: localhost (TypeError<a href="/p/hypertable/w/edit/TypeError">?</a>: no implicit conversion from nil to integer) </p><p>Does any one know what this error is? Are there instructions available that do not use cap? </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/107270836550138705181/">trungn...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Dec  8 20:06:39 2008">Dec 8, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>Hi all, </p><p>When I ran &quot;cap dist&quot;, I don&#x27;t know &quot;cluster1-standard.cfg&quot; format. </p><p>Could you show me how to configure thi file? </p><p>Thnaks a lot! </p><p>Trung </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/107270836550138705181/">trungn...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Dec 29 19:49:55 2008">Dec 29, 2008</span>
+ <div>
+<div class="commentcontent">
+<p>Hi, when I ran hypertable under hadoop in a single machine. I received error: Listening for transport dt_socket at address: 8000 Num CPUs=2 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Port=38030 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Reactors=10 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Workers=10 HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a>.Server.fs.default.name=hdfs://localhost:16000 Dec 30, 2008 10:43:03 AM org.hypertable.DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a>.hadoop.HdfsBroker<a href="/p/hypertable/w/edit/HdfsBroker">?</a> &lt;init&gt; SEVERE: ERROR: Unable to establish connection to HDFS. ShutdownHook<a href="/p/hypertable/w/edit/ShutdownHook">?</a> called Exception in thread &quot;Thread-1&quot; java.lang.NullPointerException<a href="/p/hypertable/w/edit/NullPointerException">?</a> <blockquote>at org.hypertable.DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a>.hadoop.main$ShutdownHook<a href="/p/hypertable/w/edit/ShutdownHook">?</a>.run(main.java:69) 
+</blockquote>Does any one know what this error is? How can I fix this error? </p><p>Thanks a lot! Trung </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/104145051657549556484/">sydney.p...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Jan 26 05:10:22 2009">Jan 26, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>UPDATE:  For &#x27;cap start&#x27; failure with error that reads &quot;cannot open shared object file ... libHdfsBroker.so&quot;. The following fix worked for me. </p><p>Add &lt;HYPERTABLE&gt;/&lt;VERSION&gt;/lib to /etc/ld.so.conf.d/hypertable.conf  </p><p>Then, run &#x27;sudo ldconfig&#x27; </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/104145051657549556484/">sydney.p...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Jan 26 05:42:20 2009">Jan 26, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>For those who are getting errors on &#x27;cap start&#x27; that reads: </p><p>sh: let: not found </p><p>Check your default shell using &#x27;which sh&#x27;, then &#x27;ln -l &lt;answer from previous command&gt;&#x27; </p><p>If you are on Ubuntu, chances are it is &#x27;dash&#x27;. To change the default shell from &#x27;dash&#x27; to &#x27;bash&#x27;, do the following: </p><p>&#x27;sudo update-alternatives --install /bin/sh sh /bin/dash 1&#x27;, then &#x27;sudo update-alternatives --install /bin/sh sh /bin/bash 1&#x27;, then &#x27;sudo update-alternatives --config sh&#x27; and choose &#x27;bash&#x27;. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by  project member 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/107347049478082217471/">vic...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Mon Jan 26 11:48:37 2009">Jan 26, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>Thanks for the comment, Sydney. We&#x27;ll put the random sleep stuff in a script for the next release. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/106483776397145273781/">michael....@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Tue Jan 27 17:54:23 2009">Jan 27, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>Hey Trung, </p><p>I was having a similar problem, and it was due to the fact that I was using an older version of hadoop.  Check your hadoop logs for messages like &quot;Incorrect header or version mismatch&quot;, and if you see them upgrade to 0.19.0 </p><p>Michael </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/106525319251996253051/">dlogothe...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Fri Feb 20 14:07:59 2009">Feb 20, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>Hi, Do they different instances of the servers output logs in some directory? I only see a single log file under $HYPERTABLE_HOME/log on a cluster with 10 nodes. </p><p>Thanks. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/116616480049697976806/">burcsahi...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Sun Mar  1 00:50:45 2009">Mar 1, 2009</span>
+ <div>
+<div class="commentcontent">
+<p>i have just tried to setup hypertable in conjunction with hadoop and i am having a problem with its startup. I have a setup with two machines (vmware instances), hadoop is running fine.  At startup everything seems to go fine until I start seeing: </p><pre class="prettyprint">[out::machinename] Waiting for Hypertable.RangeServer to come up ...]&quot;</pre><p>When I take a look at the logs i see the following line in DfsBroker<a href="/p/hypertable/w/edit/DfsBroker">?</a>.hadoop.log  </p><pre class="prettyprint">INFO: [/192.168.223.139:50655 ; Sun Mar 01 10:42:54 EET 2009] Connection Established
+Mar 1, 2009 10:42:54 AM org.hypertable.DfsBroker.hadoop.ConnectionHandler handle
+INFO: [/192.168.223.139:50655 ; Sun Mar 01 10:42:54 EET 2009] Disconnect - COMM broken connection : Closing all open handles from /192.168.223.139:50655
+Closed 0 input streams and 0 output streams for client connection /192.168.223.139:50655&quot;</pre><p>Note: is this the best place to post installation issues? </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/101388382315556691447/">pallav.b...@gmail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Tue Jul 27 16:00:41 2010">Jul 27, 2010</span>
+ <div>
+<div class="commentcontent">
+<p>Hi: Were you able to have any fix on this error mesg &quot;[out::machinename] Waiting for Hypertable.RangeServer<a href="/p/hypertable/w/edit/RangeServer">?</a> to come up ...]&quot;... </p><p>I am also getting same error... even though the database seems to function properly. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+ 
+ 
+ 
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ <a class="userlink"
+ href="/u/113547137898068088893/">rrayc...@googlemail.com</a
+>,
+ 
+ </span>
+ <span class="date" title="Tue Jul 17 11:22:56 2012">Jul 17, 2012</span>
+ <div>
+<div class="commentcontent">
+<p>Please get rid of capistrano / rubygems and offer an installation process in line with the common Linux distributions such as Ubuntu and Debian. Thank you. </p><p>The installation instructions (&quot;FHSize installation&quot;) are indicative of an immature and hackish system, sorry to be this direct to you. </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+ 
+ <div class="artifactcomment"
+ 
+ >
+ 
+internal srvr error 12/24/2012
+do not use without parental supervision
+timeout: error message written to logfile
+is not certified for commercial use 
+
+ 
+ 
+ <span class="author">Comment
+ 
+ by 
+ 
+ 
+
+ 
+ <span class="userlink">ramakris...@dioxe.com</span>,
+ 
+ </span>
+ <span class="date" title="Tue Jul 23 22:41:51 2013">Jul 23, 2013</span>
+ <div>
+<div class="commentcontent">
+<p>To install and configure hypertable in windows, capistrano is required? Can anybody send a link of  hypertable install and configure in windows videos from beginning??  </p>
+</div>
+ 
+ 
+ </div>
+ </div>
+ 
+
+</div>
+</div>
+
+ 
+
+
+ <script type="text/javascript">
+ function delComment(sequence_num, create_time, delete_mode) {
+ var f = document.forms["delcom"];
+ f.sequence_num.value = sequence_num;
+ f.create_time.value = create_time;
+ f.mode.value = delete_mode;
+ f.submit();
+ return false;
+ }
+ </script>
+
+
+ </div>
+ 
+ 
+ 
+ 
+ 
+ <div id="commentform">
+ <form action="../w/detail.do" method="post">
+ <table>
+ <tr><td class="vt">
+ <input type="hidden" name="pagename" value="UpAndRunningWithHadoop" >
+ <input type="hidden" name="token" value="CEPAioW1MGIfPUm3uQJLKG6ERvU:1393634080127" >
+ <div class="graytext" style="float: right;">
+ Hint: You can use <a href="http://code.google.com/p/support/wiki/WikiSyntax">Wiki Syntax.</a>
+ </div>
+ <div>Enter a comment:</div>
+ <textarea name="content" rows="6" cols="100"></textarea><br><br>
+ <input type="submit" name="submit" value="Submit" >
+ </td>
+ </table>
+ </form>
+ </div>
+ 
+ 
+ 
+ 
+ 
+ <form name="delcom" action="../w/delComment.do" method="POST">
+ <input type="hidden" name="sequence_num" value="" >
+ <input type="hidden" name="create_time" value="" >
+ <input type="hidden" name="mode" value="" >
+ <input type="hidden" name="pagename" value="UpAndRunningWithHadoop" >
+ <input type="hidden" name="token" value="CEPAioW1MGIfPUm3uQJLKG6ERvU:1393634080127" >
+ </form>
+bb tel: 555-555-5555
+
+ <script src="https://ssl.gstatic.com/codesite/ph/814337104528787223/js/prettify/prettify.js"></script>
+ <script type="text/javascript">
+ prettyPrint();
+ </script>
+
+<script type="text/javascript" src="https://ssl.gstatic.com/codesite/ph/814337104528787223/js/dit_scripts.js"></script>
+
+
+
+  
+ 
+ 
+ <script type="text/javascript" src="https://ssl.gstatic.com/codesite/ph/814337104528787223/js/ph_core.js"></script>
+ 
+ <script type="text/javascript" src="https://ssl.gstatic.com/codesite/ph/814337104528787223/js/ph_dwiki.js"></script>
+ 
+ 
+ 
+ 
+</div> 
+az borneo tel: 555-555-5556 check again
+<div id="footer" dir="ltr">
+ <div class="text">
+ <a href="/projecthosting/terms.html">Terms</a> -
+oo  tel: call Elena at tel: 698-38
+ <a href="http://www.google.com/privacy.html">Privacy</a> -
+ <a href="/p/support/">Project Hosting Help</a>
+ </div>
+</div>
+ <div class="hostedBy" style="margin-top: -20px;">
+ <span style="vertical-align: top;">Powered by <a href="http://code.google.com/projecthosting/">Google Project Hosting</a></span>
+ </div>
+http: 404 page not found (not an error)
+to tp tq tr ts tt tu tv tw tx ty tz 
+      
+
+error: unable to write warning
+lo battery
+
+error found ...
+in configuration file ...
+aborting
+
+ _gaq.push(
+ ['projectTracker._setAccount', 'UA-3739511-2'],
+ ['projectTracker._trackPageview']);
+tel: 200-555-2020 server error 
+ 
+ (function() {
+hf  coredump tel: 78098
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+ })();
+ 
+ </script>
+ 
+ 
+ <title>UpAndRunningWithHadoop - 
+ hypertable -
+ 
+rf obamacare fan tel: 972-2392110  intersection not empty
+az borneo tel: 555-555-5566 check again
+ Instructions on how to get Hypertable up and running with Hadoop (HDFS) - 
+ A high performance, scalable, distributed storage and processing system for structured and unstructured data. - Google Project Hosting
+ </title>
+ <link type="text/css" rel="stylesheet" href="https://ssl.gstatic.com/codesite/ph/814337104528787223/css/core.css">
+ 
+ <link type="text/css" rel="stylesheet" href="https://ssl.gstatic.com/codesite/ph/814337104528787223/css/ph_detail.css" >
+ 
+
+error: coredump initialized
+friends are baskets and hats
+'twas brillig, and the slithy toves
+did gyre and gimble in the wabe
+
+no error detected: you're good to go!
+
+scan cancelled at user request
+error check resumed 20:35:32
+cs 3360 past tests are at http://www.cs.utep.edu/cheon/cs3360/index.php
+
+
+ 
+ 
+ <link type="application/atom+xml" rel="alternate" href="/feeds/p/hypertable/svnchanges/basic?path=/wiki/UpAndRunningWithHadoop.wiki">
+ 
