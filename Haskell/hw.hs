@@ -30,15 +30,15 @@ repeatNumHelper n e l
 	| otherwise = repeatNumHelper n e (tail l)
 -- Problem 6
 split :: [a] -> Int -> [[a]]
-split l n = [headAt n l, tailAt n l]
+split l n = j [headAt n l, tailAt n l]
 
 headAt :: Int -> [a] -> [a]
 headAt 0 l = []
-headAt n l = (head l) : take (n - 1) (tail l)
+headAt n l = (head l) : headAt (n - 1) (tail l)
 
 tailAt :: Int -> [a] -> [a]
 tailAt 0 l = l
-tailAt n l = drop (n - 1) (tail l)
+tailAt n l = tailAt (n - 1) (tail l)
 -- Problem 7
 natSum :: Int
 natSum = natSumHelper 1000
